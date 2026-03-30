@@ -14,6 +14,12 @@ from datetime import datetime
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
+try:
+    import nest_asyncio
+    nest_asyncio.apply()
+except ImportError:
+    pass
+
 from config import config
 from models import AccountData, SystemStats
 from services.worker_service import WorkerManager
