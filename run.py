@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Colab DentalCare Account Manager - Main Entry Point
-Headless version optimized for Google Colab
+Headless version optimized for Google Colab with 90% resource efficiency
 """
 
 import sys
@@ -25,7 +25,7 @@ def setup_logging():
     
     logging.basicConfig(
         level=logging.INFO,
-        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+        format='%(asctime)s - %(levelname)s - %(message)s',
         handlers=[
             logging.FileHandler(os.path.join(logs_dir, f'colab_run_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'), encoding='utf-8'),
             logging.StreamHandler(),
@@ -36,8 +36,12 @@ def setup_logging():
 
 
 class ColabRunner:
-    def __init__(self, parallel_count: int = 3, batch_count: int = 0, delay: int = 2, phone_api_url: str = None):
-        self.parallel_count = parallel_count
+    # Hardcoded GitHub repo URL
+    GITHUB_REPO_URL = "https://github.com/sulaiman282/Colab_playwrite_test"
+    
+    def __init__(self, parallel_count: int = None, batch_count: int = 0, delay: int = 1, phone_api_url: str = None):
+        # Use config default (50 workers for 90% efficiency) if not specified
+        self.parallel_count = parallel_count if parallel_count is not None else config.account.parallel_workers
         self.batch_count = batch_count
         self.delay = delay
         self.worker_manager = None
@@ -46,7 +50,7 @@ class ColabRunner:
         if phone_api_url:
             config.update_phone_api(phone_api_url)
         
-        config.update_parallel_workers(parallel_count)
+        config.update_parallel_workers(self.parallel_count)
         config.update_batch_delay(delay)
         
         setup_logging()

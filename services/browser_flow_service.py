@@ -39,24 +39,18 @@ class BrowserFlowService:
         try:
             self.playwright = await async_playwright().start()
 
-            # AGGRESSIVE COLAB OPTIMIZATIONS
+            # MINIMAL MEMORY FOOTPRINT ARGS
             optimized_args = [
-                # Core sandboxing
                 '--no-sandbox',
                 '--disable-setuid-sandbox',
                 '--disable-dev-shm-usage',
                 '--disable-accelerated-2d-canvas',
                 '--no-first-run',
                 '--no-zygote',
-                
-                # GPU/Memory optimization
                 '--disable-gpu',
                 '--disable-gpu-compositing',
                 '--disable-gpu-rasterization',
-                '--disable-software-rasterizer',
                 '--disable-gpu-sandbox',
-                
-                # Disable features we don't need
                 '--disable-extensions',
                 '--disable-plugins',
                 '--disable-images',
@@ -78,36 +72,19 @@ class BrowserFlowService:
                 '--mute-audio',
                 '--no-default-browser-check',
                 '--no-experiments',
-                '--no-pingsend',
-                '--no-zygote',
-                
-                # Automation detection prevention (minimal)
                 '--disable-blink-features=AutomationControlled',
-                
-                # Window and rendering
-                '--window-size=1280,720',
-                '--force-color-profile=srgb',
-                
-                # Resource blocking at browser level
+                '--window-size=1024,600',
                 '--blink-settings=imagesEnabled=false',
                 '--disable-image-loading',
-                '--disable-image-resize',
-                
-                # Connection optimizations
-                '--disable-default-apps',
-                '--disable-breakpad',
                 '--disable-logging',
                 '--log-level=3',
+                '--disable-default-apps',
+                '--disable-breakpad',
                 '--ignore-certificate-errors',
-                '--ignore-certificate-errors-spki-list',
-                
-                # Performance
-                '--disable-features=TranslateUI,BlinkGenPropertyTrees',
+                '--disable-features=TranslateUI',
                 '--disable-ios-password-suggestions',
                 '--disable-password-generation',
-                '--enable-features=NetworkService,NetworkServiceInProcess',
-                '--force-color-profile=srgb',
-                '--max-space-for-cache=1024',
+                '--max-space-for-cache=512',
             ]
 
             self.browser = await self.playwright.chromium.launch(
@@ -116,9 +93,9 @@ class BrowserFlowService:
                 downloads_path=None,
             )
 
-            # OPTIMIZED CONTEXT - Smaller viewport
+            # MINIMAL CONTEXT - Smaller viewport, less memory
             self.context = await self.browser.new_context(
-                viewport={'width': 1280, 'height': 720},
+                viewport={'width': 1024, 'height': 600},
                 user_agent=config.browser.user_agent,
                 java_script_enabled=True,
                 ignore_https_errors=True,

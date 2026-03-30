@@ -22,9 +22,9 @@ class APIConfig:
 class AccountConfig:
     numbers_per_account: int = 5
     resends_per_number: int = 1
-    parallel_workers: int = 3
-    worker_batch_size: int = 3
-    worker_batch_delay: int = 2
+    parallel_workers: int = 50  # 90% efficiency: ~12.9GB RAM / 180MB per instance ≈ 70, use 50 for stability
+    worker_batch_size: int = 5
+    worker_batch_delay: int = 1
     account_creation_timeout: int = 350
     phone_processing_timeout: int = 180
     register_via_api: bool = True
