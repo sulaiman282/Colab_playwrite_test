@@ -1,0 +1,2010 @@
+[
+  {
+    "country_name": "Afghanistan",
+    "iso_code": "AF",
+    "phone_code": "93",
+    "selection_value": "AF93",
+    "full_value": "selection-action::AF93",
+    "sample_number": "701234567"
+  },
+  {
+    "country_name": "Albania",
+    "iso_code": "AL",
+    "phone_code": "355",
+    "selection_value": "AL355",
+    "full_value": "selection-action::AL355",
+    "sample_number": "672123456"
+  },
+  {
+    "country_name": "Algeria",
+    "iso_code": "DZ",
+    "phone_code": "213",
+    "selection_value": "DZ213",
+    "full_value": "selection-action::DZ213",
+    "sample_number": "551234567"
+  },
+  {
+    "country_name": "American Samoa",
+    "iso_code": "AS",
+    "phone_code": "1684",
+    "selection_value": "AS1684",
+    "full_value": "selection-action::AS1684",
+    "sample_number": "6847331234"
+  },
+  {
+    "country_name": "Andorra",
+    "iso_code": "AD",
+    "phone_code": "376",
+    "selection_value": "AD376",
+    "full_value": "selection-action::AD376",
+    "sample_number": "312345"
+  },
+  {
+    "country_name": "Angola",
+    "iso_code": "AO",
+    "phone_code": "244",
+    "selection_value": "AO244",
+    "full_value": "selection-action::AO244",
+    "sample_number": "923123456"
+  },
+  {
+    "country_name": "Anguilla",
+    "iso_code": "AI",
+    "phone_code": "1264",
+    "selection_value": "AI1264",
+    "full_value": "selection-action::AI1264",
+    "sample_number": "2642351234"
+  },
+  {
+    "country_name": "Antarctica",
+    "iso_code": "AQ",
+    "phone_code": "672",
+    "selection_value": "AQ672",
+    "full_value": "selection-action::AQ672",
+    "sample_number": ""
+  },
+  {
+    "country_name": "Antigua and Barbuda",
+    "iso_code": "AG",
+    "phone_code": "1268",
+    "selection_value": "AG1268",
+    "full_value": "selection-action::AG1268",
+    "sample_number": "2684641234"
+  },
+  {
+    "country_name": "Argentina",
+    "iso_code": "AR",
+    "phone_code": "54",
+    "selection_value": "AR54",
+    "full_value": "selection-action::AR54",
+    "sample_number": "91123456789"
+  },
+  {
+    "country_name": "Armenia",
+    "iso_code": "AM",
+    "phone_code": "374",
+    "selection_value": "AM374",
+    "full_value": "selection-action::AM374",
+    "sample_number": "77123456"
+  },
+  {
+    "country_name": "Aruba",
+    "iso_code": "AW",
+    "phone_code": "297",
+    "selection_value": "AW297",
+    "full_value": "selection-action::AW297",
+    "sample_number": "5601234"
+  },
+  {
+    "country_name": "Australia",
+    "iso_code": "AU",
+    "phone_code": "61",
+    "selection_value": "AU61",
+    "full_value": "selection-action::AU61",
+    "sample_number": "412345678"
+  },
+  {
+    "country_name": "Austria",
+    "iso_code": "AT",
+    "phone_code": "43",
+    "selection_value": "AT43",
+    "full_value": "selection-action::AT43",
+    "sample_number": "664123456"
+  },
+  {
+    "country_name": "Azerbaijan",
+    "iso_code": "AZ",
+    "phone_code": "994",
+    "selection_value": "AZ994",
+    "full_value": "selection-action::AZ994",
+    "sample_number": "401234567"
+  },
+  {
+    "country_name": "Bahamas",
+    "iso_code": "BS",
+    "phone_code": "1242",
+    "selection_value": "BS1242",
+    "full_value": "selection-action::BS1242",
+    "sample_number": "2423591234"
+  },
+  {
+    "country_name": "Bahrain",
+    "iso_code": "BH",
+    "phone_code": "973",
+    "selection_value": "BH973",
+    "full_value": "selection-action::BH973",
+    "sample_number": "36001234"
+  },
+  {
+    "country_name": "Bangladesh",
+    "iso_code": "BD",
+    "phone_code": "880",
+    "selection_value": "BD880",
+    "full_value": "selection-action::BD880",
+    "sample_number": "1812345678"
+  },
+  {
+    "country_name": "Barbados",
+    "iso_code": "BB",
+    "phone_code": "1246",
+    "selection_value": "BB1246",
+    "full_value": "selection-action::BB1246",
+    "sample_number": "2462501234"
+  },
+  {
+    "country_name": "Belarus",
+    "iso_code": "BY",
+    "phone_code": "375",
+    "selection_value": "BY375",
+    "full_value": "selection-action::BY375",
+    "sample_number": "294911911"
+  },
+  {
+    "country_name": "Belgium",
+    "iso_code": "BE",
+    "phone_code": "32",
+    "selection_value": "BE32",
+    "full_value": "selection-action::BE32",
+    "sample_number": "450001234"
+  },
+  {
+    "country_name": "Belize",
+    "iso_code": "BZ",
+    "phone_code": "501",
+    "selection_value": "BZ501",
+    "full_value": "selection-action::BZ501",
+    "sample_number": "6221234"
+  },
+  {
+    "country_name": "Benin",
+    "iso_code": "BJ",
+    "phone_code": "229",
+    "selection_value": "BJ229",
+    "full_value": "selection-action::BJ229",
+    "sample_number": "0195123456"
+  },
+  {
+    "country_name": "Bermuda",
+    "iso_code": "BM",
+    "phone_code": "1441",
+    "selection_value": "BM1441",
+    "full_value": "selection-action::BM1441",
+    "sample_number": "4413701234"
+  },
+  {
+    "country_name": "Bhutan",
+    "iso_code": "BT",
+    "phone_code": "975",
+    "selection_value": "BT975",
+    "full_value": "selection-action::BT975",
+    "sample_number": "17123456"
+  },
+  {
+    "country_name": "Bolivia, Plurinational State of",
+    "iso_code": "BO",
+    "phone_code": "591",
+    "selection_value": "BO591",
+    "full_value": "selection-action::BO591",
+    "sample_number": "71234567"
+  },
+  {
+    "country_name": "Bonaire, Sint Eustatius and Saba",
+    "iso_code": "BQ",
+    "phone_code": "599",
+    "selection_value": "BQ599",
+    "full_value": "selection-action::BQ599",
+    "sample_number": "3181234"
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "iso_code": "BA",
+    "phone_code": "387",
+    "selection_value": "BA387",
+    "full_value": "selection-action::BA387",
+    "sample_number": "61123456"
+  },
+  {
+    "country_name": "Botswana",
+    "iso_code": "BW",
+    "phone_code": "267",
+    "selection_value": "BW267",
+    "full_value": "selection-action::BW267",
+    "sample_number": "71123456"
+  },
+  {
+    "country_name": "Bouvet Island",
+    "iso_code": "BV",
+    "phone_code": "47",
+    "selection_value": "BV47",
+    "full_value": "selection-action::BV47",
+    "sample_number": ""
+  },
+  {
+    "country_name": "Brazil",
+    "iso_code": "BR",
+    "phone_code": "55",
+    "selection_value": "BR55",
+    "full_value": "selection-action::BR55",
+    "sample_number": "11961234567"
+  },
+  {
+    "country_name": "British Indian Ocean Territory",
+    "iso_code": "IO",
+    "phone_code": "246",
+    "selection_value": "IO246",
+    "full_value": "selection-action::IO246",
+    "sample_number": "3801234"
+  },
+  {
+    "country_name": "Brunei Darussalam",
+    "iso_code": "BN",
+    "phone_code": "673",
+    "selection_value": "BN673",
+    "full_value": "selection-action::BN673",
+    "sample_number": "7123456"
+  },
+  {
+    "country_name": "Bulgaria",
+    "iso_code": "BG",
+    "phone_code": "359",
+    "selection_value": "BG359",
+    "full_value": "selection-action::BG359",
+    "sample_number": "43012345"
+  },
+  {
+    "country_name": "Burkina Faso",
+    "iso_code": "BF",
+    "phone_code": "226",
+    "selection_value": "BF226",
+    "full_value": "selection-action::BF226",
+    "sample_number": "70123456"
+  },
+  {
+    "country_name": "Burundi",
+    "iso_code": "BI",
+    "phone_code": "257",
+    "selection_value": "BI257",
+    "full_value": "selection-action::BI257",
+    "sample_number": "79561234"
+  },
+  {
+    "country_name": "Cambodia",
+    "iso_code": "KH",
+    "phone_code": "855",
+    "selection_value": "KH855",
+    "full_value": "selection-action::KH855",
+    "sample_number": "91234567"
+  },
+  {
+    "country_name": "Cameroon",
+    "iso_code": "CM",
+    "phone_code": "237",
+    "selection_value": "CM237",
+    "full_value": "selection-action::CM237",
+    "sample_number": "671234567"
+  },
+  {
+    "country_name": "Canada",
+    "iso_code": "CA",
+    "phone_code": "1",
+    "selection_value": "CA1",
+    "full_value": "selection-action::CA1",
+    "sample_number": "5062345678"
+  },
+  {
+    "country_name": "Cape Verde",
+    "iso_code": "CV",
+    "phone_code": "238",
+    "selection_value": "CV238",
+    "full_value": "selection-action::CV238",
+    "sample_number": "9911234"
+  },
+  {
+    "country_name": "Cayman Islands",
+    "iso_code": "KY",
+    "phone_code": "1345",
+    "selection_value": "KY1345",
+    "full_value": "selection-action::KY1345",
+    "sample_number": "3453231234"
+  },
+  {
+    "country_name": "Central African Republic",
+    "iso_code": "CF",
+    "phone_code": "236",
+    "selection_value": "CF236",
+    "full_value": "selection-action::CF236",
+    "sample_number": "70012345"
+  },
+  {
+    "country_name": "Chad",
+    "iso_code": "TD",
+    "phone_code": "235",
+    "selection_value": "TD235",
+    "full_value": "selection-action::TD235",
+    "sample_number": "63012345"
+  },
+  {
+    "country_name": "Chile",
+    "iso_code": "CL",
+    "phone_code": "56",
+    "selection_value": "CL56",
+    "full_value": "selection-action::CL56",
+    "sample_number": "221234567"
+  },
+  {
+    "country_name": "China",
+    "iso_code": "CN",
+    "phone_code": "86",
+    "selection_value": "CN86",
+    "full_value": "selection-action::CN86",
+    "sample_number": "13123456789"
+  },
+  {
+    "country_name": "Christmas Island",
+    "iso_code": "CX",
+    "phone_code": "61",
+    "selection_value": "CX61",
+    "full_value": "selection-action::CX61",
+    "sample_number": "412345678"
+  },
+  {
+    "country_name": "Cocos (Keeling) Islands",
+    "iso_code": "CC",
+    "phone_code": "61",
+    "selection_value": "CC61",
+    "full_value": "selection-action::CC61",
+    "sample_number": "412345678"
+  },
+  {
+    "country_name": "Colombia",
+    "iso_code": "CO",
+    "phone_code": "57",
+    "selection_value": "CO57",
+    "full_value": "selection-action::CO57",
+    "sample_number": "3211234567"
+  },
+  {
+    "country_name": "Comoros",
+    "iso_code": "KM",
+    "phone_code": "269",
+    "selection_value": "KM269",
+    "full_value": "selection-action::KM269",
+    "sample_number": "3212345"
+  },
+  {
+    "country_name": "Congo",
+    "iso_code": "CG",
+    "phone_code": "242",
+    "selection_value": "CG242",
+    "full_value": "selection-action::CG242",
+    "sample_number": "061234567"
+  },
+  {
+    "country_name": "Congo, the Democratic Republic of the",
+    "iso_code": "CD",
+    "phone_code": "243",
+    "selection_value": "CD243",
+    "full_value": "selection-action::CD243",
+    "sample_number": "991234567"
+  },
+  {
+    "country_name": "Cook Islands",
+    "iso_code": "CK",
+    "phone_code": "682",
+    "selection_value": "CK682",
+    "full_value": "selection-action::CK682",
+    "sample_number": "71234"
+  },
+  {
+    "country_name": "Costa Rica",
+    "iso_code": "CR",
+    "phone_code": "506",
+    "selection_value": "CR506",
+    "full_value": "selection-action::CR506",
+    "sample_number": "83123456"
+  },
+  {
+    "country_name": "Croatia",
+    "iso_code": "HR",
+    "phone_code": "385",
+    "selection_value": "HR385",
+    "full_value": "selection-action::HR385",
+    "sample_number": "921234567"
+  },
+  {
+    "country_name": "Cuba",
+    "iso_code": "CU",
+    "phone_code": "53",
+    "selection_value": "CU53",
+    "full_value": "selection-action::CU53",
+    "sample_number": "51234567"
+  },
+  {
+    "country_name": "Curaçao",
+    "iso_code": "CW",
+    "phone_code": "599",
+    "selection_value": "CW599",
+    "full_value": "selection-action::CW599",
+    "sample_number": "95181234"
+  },
+  {
+    "country_name": "Cyprus",
+    "iso_code": "CY",
+    "phone_code": "357",
+    "selection_value": "CY357",
+    "full_value": "selection-action::CY357",
+    "sample_number": "96123456"
+  },
+  {
+    "country_name": "Czech Republic",
+    "iso_code": "CZ",
+    "phone_code": "420",
+    "selection_value": "CZ420",
+    "full_value": "selection-action::CZ420",
+    "sample_number": "601123456"
+  },
+  {
+    "country_name": "Côte d'Ivoire",
+    "iso_code": "CI",
+    "phone_code": "225",
+    "selection_value": "CI225",
+    "full_value": "selection-action::CI225",
+    "sample_number": "0123456789"
+  },
+  {
+    "country_name": "Denmark",
+    "iso_code": "DK",
+    "phone_code": "45",
+    "selection_value": "DK45",
+    "full_value": "selection-action::DK45",
+    "sample_number": "34412345"
+  },
+  {
+    "country_name": "Djibouti",
+    "iso_code": "DJ",
+    "phone_code": "253",
+    "selection_value": "DJ253",
+    "full_value": "selection-action::DJ253",
+    "sample_number": "77831001"
+  },
+  {
+    "country_name": "Dominica",
+    "iso_code": "DM",
+    "phone_code": "1767",
+    "selection_value": "DM1767",
+    "full_value": "selection-action::DM1767",
+    "sample_number": "7672251234"
+  },
+  {
+    "country_name": "Dominican Republic",
+    "iso_code": "DO",
+    "phone_code": "1809",
+    "selection_value": "DO1809",
+    "full_value": "selection-action::DO1809",
+    "sample_number": "8092345678"
+  },
+  {
+    "country_name": "Dominican Republic",
+    "iso_code": "DO",
+    "phone_code": "1829",
+    "selection_value": "DO1829",
+    "full_value": "selection-action::DO1829",
+    "sample_number": "8092345678"
+  },
+  {
+    "country_name": "Dominican Republic",
+    "iso_code": "DO",
+    "phone_code": "1849",
+    "selection_value": "DO1849",
+    "full_value": "selection-action::DO1849",
+    "sample_number": "8092345678"
+  },
+  {
+    "country_name": "Ecuador",
+    "iso_code": "EC",
+    "phone_code": "593",
+    "selection_value": "EC593",
+    "full_value": "selection-action::EC593",
+    "sample_number": "991234567"
+  },
+  {
+    "country_name": "Egypt",
+    "iso_code": "EG",
+    "phone_code": "20",
+    "selection_value": "EG20",
+    "full_value": "selection-action::EG20",
+    "sample_number": "1001234567"
+  },
+  {
+    "country_name": "El Salvador",
+    "iso_code": "SV",
+    "phone_code": "503",
+    "selection_value": "SV503",
+    "full_value": "selection-action::SV503",
+    "sample_number": "70123456"
+  },
+  {
+    "country_name": "Equatorial Guinea",
+    "iso_code": "GQ",
+    "phone_code": "240",
+    "selection_value": "GQ240",
+    "full_value": "selection-action::GQ240",
+    "sample_number": "222123456"
+  },
+  {
+    "country_name": "Eritrea",
+    "iso_code": "ER",
+    "phone_code": "291",
+    "selection_value": "ER291",
+    "full_value": "selection-action::ER291",
+    "sample_number": "7123456"
+  },
+  {
+    "country_name": "Estonia",
+    "iso_code": "EE",
+    "phone_code": "372",
+    "selection_value": "EE372",
+    "full_value": "selection-action::EE372",
+    "sample_number": "51234567"
+  },
+  {
+    "country_name": "Ethiopia",
+    "iso_code": "ET",
+    "phone_code": "251",
+    "selection_value": "ET251",
+    "full_value": "selection-action::ET251",
+    "sample_number": "911234567"
+  },
+  {
+    "country_name": "Falkland Islands (Malvinas)",
+    "iso_code": "FK",
+    "phone_code": "500",
+    "selection_value": "FK500",
+    "full_value": "selection-action::FK500",
+    "sample_number": "51234"
+  },
+  {
+    "country_name": "Faroe Islands",
+    "iso_code": "FO",
+    "phone_code": "298",
+    "selection_value": "FO298",
+    "full_value": "selection-action::FO298",
+    "sample_number": "211234"
+  },
+  {
+    "country_name": "Fiji",
+    "iso_code": "FJ",
+    "phone_code": "679",
+    "selection_value": "FJ679",
+    "full_value": "selection-action::FJ679",
+    "sample_number": "7012345"
+  },
+  {
+    "country_name": "Finland",
+    "iso_code": "FI",
+    "phone_code": "358",
+    "selection_value": "FI358",
+    "full_value": "selection-action::FI358",
+    "sample_number": "412345678"
+  },
+  {
+    "country_name": "France",
+    "iso_code": "FR",
+    "phone_code": "33",
+    "selection_value": "FR33",
+    "full_value": "selection-action::FR33",
+    "sample_number": "612345678"
+  },
+  {
+    "country_name": "French Guiana",
+    "iso_code": "GF",
+    "phone_code": "594",
+    "selection_value": "GF594",
+    "full_value": "selection-action::GF594",
+    "sample_number": "694201234"
+  },
+  {
+    "country_name": "French Polynesia",
+    "iso_code": "PF",
+    "phone_code": "689",
+    "selection_value": "PF689",
+    "full_value": "selection-action::PF689",
+    "sample_number": "87123456"
+  },
+  {
+    "country_name": "French Southern Territories",
+    "iso_code": "TF",
+    "phone_code": "262",
+    "selection_value": "TF262",
+    "full_value": "selection-action::TF262",
+    "sample_number": ""
+  },
+  {
+    "country_name": "Gabon",
+    "iso_code": "GA",
+    "phone_code": "241",
+    "selection_value": "GA241",
+    "full_value": "selection-action::GA241",
+    "sample_number": "06031234"
+  },
+  {
+    "country_name": "Gambia",
+    "iso_code": "GM",
+    "phone_code": "220",
+    "selection_value": "GM220",
+    "full_value": "selection-action::GM220",
+    "sample_number": "3012345"
+  },
+  {
+    "country_name": "Georgia",
+    "iso_code": "GE",
+    "phone_code": "995",
+    "selection_value": "GE995",
+    "full_value": "selection-action::GE995",
+    "sample_number": "555123456"
+  },
+  {
+    "country_name": "Germany",
+    "iso_code": "DE",
+    "phone_code": "49",
+    "selection_value": "DE49",
+    "full_value": "selection-action::DE49",
+    "sample_number": "15123456789"
+  },
+  {
+    "country_name": "Ghana",
+    "iso_code": "GH",
+    "phone_code": "233",
+    "selection_value": "GH233",
+    "full_value": "selection-action::GH233",
+    "sample_number": "231234567"
+  },
+  {
+    "country_name": "Gibraltar",
+    "iso_code": "GI",
+    "phone_code": "350",
+    "selection_value": "GI350",
+    "full_value": "selection-action::GI350",
+    "sample_number": "57123456"
+  },
+  {
+    "country_name": "Greece",
+    "iso_code": "GR",
+    "phone_code": "30",
+    "selection_value": "GR30",
+    "full_value": "selection-action::GR30",
+    "sample_number": "6912345678"
+  },
+  {
+    "country_name": "Greenland",
+    "iso_code": "GL",
+    "phone_code": "299",
+    "selection_value": "GL299",
+    "full_value": "selection-action::GL299",
+    "sample_number": "221234"
+  },
+  {
+    "country_name": "Grenada",
+    "iso_code": "GD",
+    "phone_code": "1473",
+    "selection_value": "GD1473",
+    "full_value": "selection-action::GD1473",
+    "sample_number": "4734031234"
+  },
+  {
+    "country_name": "Guadeloupe",
+    "iso_code": "GP",
+    "phone_code": "590",
+    "selection_value": "GP590",
+    "full_value": "selection-action::GP590",
+    "sample_number": "690001234"
+  },
+  {
+    "country_name": "Guam",
+    "iso_code": "GU",
+    "phone_code": "1671",
+    "selection_value": "GU1671",
+    "full_value": "selection-action::GU1671",
+    "sample_number": "6713001234"
+  },
+  {
+    "country_name": "Guatemala",
+    "iso_code": "GT",
+    "phone_code": "502",
+    "selection_value": "GT502",
+    "full_value": "selection-action::GT502",
+    "sample_number": "51234567"
+  },
+  {
+    "country_name": "Guernsey",
+    "iso_code": "GG",
+    "phone_code": "44",
+    "selection_value": "GG44",
+    "full_value": "selection-action::GG44",
+    "sample_number": "7781123456"
+  },
+  {
+    "country_name": "Guinea",
+    "iso_code": "GN",
+    "phone_code": "224",
+    "selection_value": "GN224",
+    "full_value": "selection-action::GN224",
+    "sample_number": "601123456"
+  },
+  {
+    "country_name": "Guinea-Bissau",
+    "iso_code": "GW",
+    "phone_code": "245",
+    "selection_value": "GW245",
+    "full_value": "selection-action::GW245",
+    "sample_number": "955012345"
+  },
+  {
+    "country_name": "Guyana",
+    "iso_code": "GY",
+    "phone_code": "592",
+    "selection_value": "GY592",
+    "full_value": "selection-action::GY592",
+    "sample_number": "6091234"
+  },
+  {
+    "country_name": "Haiti",
+    "iso_code": "HT",
+    "phone_code": "509",
+    "selection_value": "HT509",
+    "full_value": "selection-action::HT509",
+    "sample_number": "34101234"
+  },
+  {
+    "country_name": "Heard Island and McDonald Islands",
+    "iso_code": "HM",
+    "phone_code": "672",
+    "selection_value": "HM672",
+    "full_value": "selection-action::HM672",
+    "sample_number": ""
+  },
+  {
+    "country_name": "Holy See (Vatican City State)",
+    "iso_code": "VA",
+    "phone_code": "3906",
+    "selection_value": "VA3906",
+    "full_value": "selection-action::VA3906",
+    "sample_number": "3123456789"
+  },
+  {
+    "country_name": "Honduras",
+    "iso_code": "HN",
+    "phone_code": "504",
+    "selection_value": "HN504",
+    "full_value": "selection-action::HN504",
+    "sample_number": "91234567"
+  },
+  {
+    "country_name": "Hong Kong",
+    "iso_code": "HK",
+    "phone_code": "852",
+    "selection_value": "HK852",
+    "full_value": "selection-action::HK852",
+    "sample_number": "51234567"
+  },
+  {
+    "country_name": "Hungary",
+    "iso_code": "HU",
+    "phone_code": "36",
+    "selection_value": "HU36",
+    "full_value": "selection-action::HU36",
+    "sample_number": "201234567"
+  },
+  {
+    "country_name": "Iceland",
+    "iso_code": "IS",
+    "phone_code": "354",
+    "selection_value": "IS354",
+    "full_value": "selection-action::IS354",
+    "sample_number": "6111234"
+  },
+  {
+    "country_name": "India",
+    "iso_code": "IN",
+    "phone_code": "91",
+    "selection_value": "IN91",
+    "full_value": "selection-action::IN91",
+    "sample_number": "8123456789"
+  },
+  {
+    "country_name": "Indonesia",
+    "iso_code": "ID",
+    "phone_code": "62",
+    "selection_value": "ID62",
+    "full_value": "selection-action::ID62",
+    "sample_number": "812345678"
+  },
+  {
+    "country_name": "Iran, Islamic Republic of",
+    "iso_code": "IR",
+    "phone_code": "98",
+    "selection_value": "IR98",
+    "full_value": "selection-action::IR98",
+    "sample_number": "9123456789"
+  },
+  {
+    "country_name": "Iraq",
+    "iso_code": "IQ",
+    "phone_code": "964",
+    "selection_value": "IQ964",
+    "full_value": "selection-action::IQ964",
+    "sample_number": "7912345678"
+  },
+  {
+    "country_name": "Ireland",
+    "iso_code": "IE",
+    "phone_code": "353",
+    "selection_value": "IE353",
+    "full_value": "selection-action::IE353",
+    "sample_number": "850123456"
+  },
+  {
+    "country_name": "Isle of Man",
+    "iso_code": "IM",
+    "phone_code": "44",
+    "selection_value": "IM44",
+    "full_value": "selection-action::IM44",
+    "sample_number": "7924123456"
+  },
+  {
+    "country_name": "Israel",
+    "iso_code": "IL",
+    "phone_code": "972",
+    "selection_value": "IL972",
+    "full_value": "selection-action::IL972",
+    "sample_number": "502345678"
+  },
+  {
+    "country_name": "Italy",
+    "iso_code": "IT",
+    "phone_code": "39",
+    "selection_value": "IT39",
+    "full_value": "selection-action::IT39",
+    "sample_number": "3123456789"
+  },
+  {
+    "country_name": "Jamaica",
+    "iso_code": "JM",
+    "phone_code": "1876",
+    "selection_value": "JM1876",
+    "full_value": "selection-action::JM1876",
+    "sample_number": "8762101234"
+  },
+  {
+    "country_name": "Japan",
+    "iso_code": "JP",
+    "phone_code": "81",
+    "selection_value": "JP81",
+    "full_value": "selection-action::JP81",
+    "sample_number": "9012345678"
+  },
+  {
+    "country_name": "Jersey",
+    "iso_code": "JE",
+    "phone_code": "44",
+    "selection_value": "JE44",
+    "full_value": "selection-action::JE44",
+    "sample_number": "7797712345"
+  },
+  {
+    "country_name": "Jordan",
+    "iso_code": "JO",
+    "phone_code": "962",
+    "selection_value": "JO962",
+    "full_value": "selection-action::JO962",
+    "sample_number": "790123456"
+  },
+  {
+    "country_name": "Kazakhstan",
+    "iso_code": "KZ",
+    "phone_code": "7",
+    "selection_value": "KZ7",
+    "full_value": "selection-action::KZ7",
+    "sample_number": "7710009998"
+  },
+  {
+    "country_name": "Kenya",
+    "iso_code": "KE",
+    "phone_code": "254",
+    "selection_value": "KE254",
+    "full_value": "selection-action::KE254",
+    "sample_number": "712123456"
+  },
+  {
+    "country_name": "Kiribati",
+    "iso_code": "KI",
+    "phone_code": "686",
+    "selection_value": "KI686",
+    "full_value": "selection-action::KI686",
+    "sample_number": "72001234"
+  },
+  {
+    "country_name": "Korea, Democratic People's Republic of",
+    "iso_code": "KP",
+    "phone_code": "850",
+    "selection_value": "KP850",
+    "full_value": "selection-action::KP850",
+    "sample_number": "1921234567"
+  },
+  {
+    "country_name": "Korea, Republic of",
+    "iso_code": "KR",
+    "phone_code": "82",
+    "selection_value": "KR82",
+    "full_value": "selection-action::KR82",
+    "sample_number": "1020000000"
+  },
+  {
+    "country_name": "Kosovo, Republic of",
+    "iso_code": "XK",
+    "phone_code": "383",
+    "selection_value": "XK383",
+    "full_value": "selection-action::XK383",
+    "sample_number": "43201234"
+  },
+  {
+    "country_name": "Kuwait",
+    "iso_code": "KW",
+    "phone_code": "965",
+    "selection_value": "KW965",
+    "full_value": "selection-action::KW965",
+    "sample_number": "50012345"
+  },
+  {
+    "country_name": "Kyrgyzstan",
+    "iso_code": "KG",
+    "phone_code": "996",
+    "selection_value": "KG996",
+    "full_value": "selection-action::KG996",
+    "sample_number": "700123456"
+  },
+  {
+    "country_name": "Lao People's Democratic Republic",
+    "iso_code": "LA",
+    "phone_code": "856",
+    "selection_value": "LA856",
+    "full_value": "selection-action::LA856",
+    "sample_number": "2023123456"
+  },
+  {
+    "country_name": "Latvia",
+    "iso_code": "LV",
+    "phone_code": "371",
+    "selection_value": "LV371",
+    "full_value": "selection-action::LV371",
+    "sample_number": "21234567"
+  },
+  {
+    "country_name": "Lebanon",
+    "iso_code": "LB",
+    "phone_code": "961",
+    "selection_value": "LB961",
+    "full_value": "selection-action::LB961",
+    "sample_number": "71123456"
+  },
+  {
+    "country_name": "Lesotho",
+    "iso_code": "LS",
+    "phone_code": "266",
+    "selection_value": "LS266",
+    "full_value": "selection-action::LS266",
+    "sample_number": "50123456"
+  },
+  {
+    "country_name": "Liberia",
+    "iso_code": "LR",
+    "phone_code": "231",
+    "selection_value": "LR231",
+    "full_value": "selection-action::LR231",
+    "sample_number": "770123456"
+  },
+  {
+    "country_name": "Libya",
+    "iso_code": "LY",
+    "phone_code": "218",
+    "selection_value": "LY218",
+    "full_value": "selection-action::LY218",
+    "sample_number": "912345678"
+  },
+  {
+    "country_name": "Liechtenstein",
+    "iso_code": "LI",
+    "phone_code": "423",
+    "selection_value": "LI423",
+    "full_value": "selection-action::LI423",
+    "sample_number": "660234567"
+  },
+  {
+    "country_name": "Lithuania",
+    "iso_code": "LT",
+    "phone_code": "370",
+    "selection_value": "LT370",
+    "full_value": "selection-action::LT370",
+    "sample_number": "61234567"
+  },
+  {
+    "country_name": "Luxembourg",
+    "iso_code": "LU",
+    "phone_code": "352",
+    "selection_value": "LU352",
+    "full_value": "selection-action::LU352",
+    "sample_number": "628123456"
+  },
+  {
+    "country_name": "Macao",
+    "iso_code": "MO",
+    "phone_code": "853",
+    "selection_value": "MO853",
+    "full_value": "selection-action::MO853",
+    "sample_number": "66123456"
+  },
+  {
+    "country_name": "Macedonia, the Former Yugoslav Republic of",
+    "iso_code": "MK",
+    "phone_code": "389",
+    "selection_value": "MK389",
+    "full_value": "selection-action::MK389",
+    "sample_number": "72345678"
+  },
+  {
+    "country_name": "Madagascar",
+    "iso_code": "MG",
+    "phone_code": "261",
+    "selection_value": "MG261",
+    "full_value": "selection-action::MG261",
+    "sample_number": "321234567"
+  },
+  {
+    "country_name": "Malawi",
+    "iso_code": "MW",
+    "phone_code": "265",
+    "selection_value": "MW265",
+    "full_value": "selection-action::MW265",
+    "sample_number": "991234567"
+  },
+  {
+    "country_name": "Malaysia",
+    "iso_code": "MY",
+    "phone_code": "60",
+    "selection_value": "MY60",
+    "full_value": "selection-action::MY60",
+    "sample_number": "123456789"
+  },
+  {
+    "country_name": "Maldives",
+    "iso_code": "MV",
+    "phone_code": "960",
+    "selection_value": "MV960",
+    "full_value": "selection-action::MV960",
+    "sample_number": "7712345"
+  },
+  {
+    "country_name": "Mali",
+    "iso_code": "ML",
+    "phone_code": "223",
+    "selection_value": "ML223",
+    "full_value": "selection-action::ML223",
+    "sample_number": "65012345"
+  },
+  {
+    "country_name": "Malta",
+    "iso_code": "MT",
+    "phone_code": "356",
+    "selection_value": "MT356",
+    "full_value": "selection-action::MT356",
+    "sample_number": "96961234"
+  },
+  {
+    "country_name": "Marshall Islands",
+    "iso_code": "MH",
+    "phone_code": "692",
+    "selection_value": "MH692",
+    "full_value": "selection-action::MH692",
+    "sample_number": "2351234"
+  },
+  {
+    "country_name": "Martinique",
+    "iso_code": "MQ",
+    "phone_code": "596",
+    "selection_value": "MQ596",
+    "full_value": "selection-action::MQ596",
+    "sample_number": "696201234"
+  },
+  {
+    "country_name": "Mauritania",
+    "iso_code": "MR",
+    "phone_code": "222",
+    "selection_value": "MR222",
+    "full_value": "selection-action::MR222",
+    "sample_number": "22123456"
+  },
+  {
+    "country_name": "Mauritius",
+    "iso_code": "MU",
+    "phone_code": "230",
+    "selection_value": "MU230",
+    "full_value": "selection-action::MU230",
+    "sample_number": "52512345"
+  },
+  {
+    "country_name": "Mayotte",
+    "iso_code": "YT",
+    "phone_code": "262",
+    "selection_value": "YT262",
+    "full_value": "selection-action::YT262",
+    "sample_number": "639012345"
+  },
+  {
+    "country_name": "Mexico",
+    "iso_code": "MX",
+    "phone_code": "52",
+    "selection_value": "MX52",
+    "full_value": "selection-action::MX52",
+    "sample_number": "2221234567"
+  },
+  {
+    "country_name": "Micronesia, Federated States of",
+    "iso_code": "FM",
+    "phone_code": "691",
+    "selection_value": "FM691",
+    "full_value": "selection-action::FM691",
+    "sample_number": "3501234"
+  },
+  {
+    "country_name": "Moldova, Republic of",
+    "iso_code": "MD",
+    "phone_code": "373",
+    "selection_value": "MD373",
+    "full_value": "selection-action::MD373",
+    "sample_number": "62112345"
+  },
+  {
+    "country_name": "Monaco",
+    "iso_code": "MC",
+    "phone_code": "377",
+    "selection_value": "MC377",
+    "full_value": "selection-action::MC377",
+    "sample_number": "612345678"
+  },
+  {
+    "country_name": "Mongolia",
+    "iso_code": "MN",
+    "phone_code": "976",
+    "selection_value": "MN976",
+    "full_value": "selection-action::MN976",
+    "sample_number": "88123456"
+  },
+  {
+    "country_name": "Montenegro",
+    "iso_code": "ME",
+    "phone_code": "382",
+    "selection_value": "ME382",
+    "full_value": "selection-action::ME382",
+    "sample_number": "60123456"
+  },
+  {
+    "country_name": "Montserrat",
+    "iso_code": "MS",
+    "phone_code": "1664",
+    "selection_value": "MS1664",
+    "full_value": "selection-action::MS1664",
+    "sample_number": "6644923456"
+  },
+  {
+    "country_name": "Morocco",
+    "iso_code": "MA",
+    "phone_code": "212",
+    "selection_value": "MA212",
+    "full_value": "selection-action::MA212",
+    "sample_number": "650123456"
+  },
+  {
+    "country_name": "Mozambique",
+    "iso_code": "MZ",
+    "phone_code": "258",
+    "selection_value": "MZ258",
+    "full_value": "selection-action::MZ258",
+    "sample_number": "821234567"
+  },
+  {
+    "country_name": "Myanmar",
+    "iso_code": "MM",
+    "phone_code": "95",
+    "selection_value": "MM95",
+    "full_value": "selection-action::MM95",
+    "sample_number": "92123456"
+  },
+  {
+    "country_name": "Namibia",
+    "iso_code": "NA",
+    "phone_code": "264",
+    "selection_value": "NA264",
+    "full_value": "selection-action::NA264",
+    "sample_number": "811234567"
+  },
+  {
+    "country_name": "Nauru",
+    "iso_code": "NR",
+    "phone_code": "674",
+    "selection_value": "NR674",
+    "full_value": "selection-action::NR674",
+    "sample_number": "5551234"
+  },
+  {
+    "country_name": "Nepal",
+    "iso_code": "NP",
+    "phone_code": "977",
+    "selection_value": "NP977",
+    "full_value": "selection-action::NP977",
+    "sample_number": "9841234567"
+  },
+  {
+    "country_name": "Netherlands",
+    "iso_code": "NL",
+    "phone_code": "31",
+    "selection_value": "NL31",
+    "full_value": "selection-action::NL31",
+    "sample_number": "612345678"
+  },
+  {
+    "country_name": "New Caledonia",
+    "iso_code": "NC",
+    "phone_code": "687",
+    "selection_value": "NC687",
+    "full_value": "selection-action::NC687",
+    "sample_number": "751234"
+  },
+  {
+    "country_name": "New Zealand",
+    "iso_code": "NZ",
+    "phone_code": "64",
+    "selection_value": "NZ64",
+    "full_value": "selection-action::NZ64",
+    "sample_number": "211234567"
+  },
+  {
+    "country_name": "Nicaragua",
+    "iso_code": "NI",
+    "phone_code": "505",
+    "selection_value": "NI505",
+    "full_value": "selection-action::NI505",
+    "sample_number": "81234567"
+  },
+  {
+    "country_name": "Niger",
+    "iso_code": "NE",
+    "phone_code": "227",
+    "selection_value": "NE227",
+    "full_value": "selection-action::NE227",
+    "sample_number": "93123456"
+  },
+  {
+    "country_name": "Nigeria",
+    "iso_code": "NG",
+    "phone_code": "234",
+    "selection_value": "NG234",
+    "full_value": "selection-action::NG234",
+    "sample_number": "8021234567"
+  },
+  {
+    "country_name": "Niue",
+    "iso_code": "NU",
+    "phone_code": "683",
+    "selection_value": "NU683",
+    "full_value": "selection-action::NU683",
+    "sample_number": "8884012"
+  },
+  {
+    "country_name": "Norfolk Island",
+    "iso_code": "NF",
+    "phone_code": "672",
+    "selection_value": "NF672",
+    "full_value": "selection-action::NF672",
+    "sample_number": "381234"
+  },
+  {
+    "country_name": "Northern Mariana Islands",
+    "iso_code": "MP",
+    "phone_code": "1670",
+    "selection_value": "MP1670",
+    "full_value": "selection-action::MP1670",
+    "sample_number": "6702345678"
+  },
+  {
+    "country_name": "Norway",
+    "iso_code": "NO",
+    "phone_code": "47",
+    "selection_value": "NO47",
+    "full_value": "selection-action::NO47",
+    "sample_number": "40612345"
+  },
+  {
+    "country_name": "Oman",
+    "iso_code": "OM",
+    "phone_code": "968",
+    "selection_value": "OM968",
+    "full_value": "selection-action::OM968",
+    "sample_number": "92123456"
+  },
+  {
+    "country_name": "Pakistan",
+    "iso_code": "PK",
+    "phone_code": "92",
+    "selection_value": "PK92",
+    "full_value": "selection-action::PK92",
+    "sample_number": "3012345678"
+  },
+  {
+    "country_name": "Palau",
+    "iso_code": "PW",
+    "phone_code": "680",
+    "selection_value": "PW680",
+    "full_value": "selection-action::PW680",
+    "sample_number": "6201234"
+  },
+  {
+    "country_name": "Palestine, State of",
+    "iso_code": "PS",
+    "phone_code": "970",
+    "selection_value": "PS970",
+    "full_value": "selection-action::PS970",
+    "sample_number": "599123456"
+  },
+  {
+    "country_name": "Panama",
+    "iso_code": "PA",
+    "phone_code": "507",
+    "selection_value": "PA507",
+    "full_value": "selection-action::PA507",
+    "sample_number": "61234567"
+  },
+  {
+    "country_name": "Papua New Guinea",
+    "iso_code": "PG",
+    "phone_code": "675",
+    "selection_value": "PG675",
+    "full_value": "selection-action::PG675",
+    "sample_number": "70123456"
+  },
+  {
+    "country_name": "Paraguay",
+    "iso_code": "PY",
+    "phone_code": "595",
+    "selection_value": "PY595",
+    "full_value": "selection-action::PY595",
+    "sample_number": "961456789"
+  },
+  {
+    "country_name": "Peru",
+    "iso_code": "PE",
+    "phone_code": "51",
+    "selection_value": "PE51",
+    "full_value": "selection-action::PE51",
+    "sample_number": "912345678"
+  },
+  {
+    "country_name": "Philippines",
+    "iso_code": "PH",
+    "phone_code": "63",
+    "selection_value": "PH63",
+    "full_value": "selection-action::PH63",
+    "sample_number": "9051234567"
+  },
+  {
+    "country_name": "Pitcairn",
+    "iso_code": "PN",
+    "phone_code": "870",
+    "selection_value": "PN870",
+    "full_value": "selection-action::PN870",
+    "sample_number": ""
+  },
+  {
+    "country_name": "Poland",
+    "iso_code": "PL",
+    "phone_code": "48",
+    "selection_value": "PL48",
+    "full_value": "selection-action::PL48",
+    "sample_number": "512345678"
+  },
+  {
+    "country_name": "Portugal",
+    "iso_code": "PT",
+    "phone_code": "351",
+    "selection_value": "PT351",
+    "full_value": "selection-action::PT351",
+    "sample_number": "912345678"
+  },
+  {
+    "country_name": "Puerto Rico",
+    "iso_code": "PR",
+    "phone_code": "1",
+    "selection_value": "PR1",
+    "full_value": "selection-action::PR1",
+    "sample_number": "7872345678"
+  },
+  {
+    "country_name": "Qatar",
+    "iso_code": "QA",
+    "phone_code": "974",
+    "selection_value": "QA974",
+    "full_value": "selection-action::QA974",
+    "sample_number": "33123456"
+  },
+  {
+    "country_name": "Romania",
+    "iso_code": "RO",
+    "phone_code": "40",
+    "selection_value": "RO40",
+    "full_value": "selection-action::RO40",
+    "sample_number": "712034567"
+  },
+  {
+    "country_name": "Russian Federation",
+    "iso_code": "RU",
+    "phone_code": "7",
+    "selection_value": "RU7",
+    "full_value": "selection-action::RU7",
+    "sample_number": "9123456789"
+  },
+  {
+    "country_name": "Rwanda",
+    "iso_code": "RW",
+    "phone_code": "250",
+    "selection_value": "RW250",
+    "full_value": "selection-action::RW250",
+    "sample_number": "720123456"
+  },
+  {
+    "country_name": "Réunion",
+    "iso_code": "RE",
+    "phone_code": "262",
+    "selection_value": "RE262",
+    "full_value": "selection-action::RE262",
+    "sample_number": "692123456"
+  },
+  {
+    "country_name": "Saint Barthélemy",
+    "iso_code": "BL",
+    "phone_code": "590",
+    "selection_value": "BL590",
+    "full_value": "selection-action::BL590",
+    "sample_number": "690001234"
+  },
+  {
+    "country_name": "Saint Helena, Ascension and Tristan da Cunha",
+    "iso_code": "SH",
+    "phone_code": "290",
+    "selection_value": "SH290",
+    "full_value": "selection-action::SH290",
+    "sample_number": "51234"
+  },
+  {
+    "country_name": "Saint Kitts and Nevis",
+    "iso_code": "KN",
+    "phone_code": "1869",
+    "selection_value": "KN1869",
+    "full_value": "selection-action::KN1869",
+    "sample_number": "8697652917"
+  },
+  {
+    "country_name": "Saint Lucia",
+    "iso_code": "LC",
+    "phone_code": "1758",
+    "selection_value": "LC1758",
+    "full_value": "selection-action::LC1758",
+    "sample_number": "7582845678"
+  },
+  {
+    "country_name": "Saint Martin (French part)",
+    "iso_code": "MF",
+    "phone_code": "590",
+    "selection_value": "MF590",
+    "full_value": "selection-action::MF590",
+    "sample_number": "690001234"
+  },
+  {
+    "country_name": "Saint Pierre and Miquelon",
+    "iso_code": "PM",
+    "phone_code": "508",
+    "selection_value": "PM508",
+    "full_value": "selection-action::PM508",
+    "sample_number": "551234"
+  },
+  {
+    "country_name": "Saint Vincent and the Grenadines",
+    "iso_code": "VC",
+    "phone_code": "1784",
+    "selection_value": "VC1784",
+    "full_value": "selection-action::VC1784",
+    "sample_number": "7844301234"
+  },
+  {
+    "country_name": "Samoa",
+    "iso_code": "WS",
+    "phone_code": "685",
+    "selection_value": "WS685",
+    "full_value": "selection-action::WS685",
+    "sample_number": "7212345"
+  },
+  {
+    "country_name": "San Marino",
+    "iso_code": "SM",
+    "phone_code": "378",
+    "selection_value": "SM378",
+    "full_value": "selection-action::SM378",
+    "sample_number": "66661212"
+  },
+  {
+    "country_name": "Sao Tome and Principe",
+    "iso_code": "ST",
+    "phone_code": "239",
+    "selection_value": "ST239",
+    "full_value": "selection-action::ST239",
+    "sample_number": "9812345"
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "iso_code": "SA",
+    "phone_code": "966",
+    "selection_value": "SA966",
+    "full_value": "selection-action::SA966",
+    "sample_number": "512345678"
+  },
+  {
+    "country_name": "Senegal",
+    "iso_code": "SN",
+    "phone_code": "221",
+    "selection_value": "SN221",
+    "full_value": "selection-action::SN221",
+    "sample_number": "701234567"
+  },
+  {
+    "country_name": "Serbia",
+    "iso_code": "RS",
+    "phone_code": "381",
+    "selection_value": "RS381",
+    "full_value": "selection-action::RS381",
+    "sample_number": "601234567"
+  },
+  {
+    "country_name": "Seychelles",
+    "iso_code": "SC",
+    "phone_code": "248",
+    "selection_value": "SC248",
+    "full_value": "selection-action::SC248",
+    "sample_number": "2510123"
+  },
+  {
+    "country_name": "Sierra Leone",
+    "iso_code": "SL",
+    "phone_code": "232",
+    "selection_value": "SL232",
+    "full_value": "selection-action::SL232",
+    "sample_number": "25123456"
+  },
+  {
+    "country_name": "Singapore",
+    "iso_code": "SG",
+    "phone_code": "65",
+    "selection_value": "SG65",
+    "full_value": "selection-action::SG65",
+    "sample_number": "81234567"
+  },
+  {
+    "country_name": "Sint Maarten (Dutch part)",
+    "iso_code": "SX",
+    "phone_code": "1721",
+    "selection_value": "SX1721",
+    "full_value": "selection-action::SX1721",
+    "sample_number": "7215205678"
+  },
+  {
+    "country_name": "Slovakia",
+    "iso_code": "SK",
+    "phone_code": "421",
+    "selection_value": "SK421",
+    "full_value": "selection-action::SK421",
+    "sample_number": "912123456"
+  },
+  {
+    "country_name": "Slovenia",
+    "iso_code": "SI",
+    "phone_code": "386",
+    "selection_value": "SI386",
+    "full_value": "selection-action::SI386",
+    "sample_number": "31234567"
+  },
+  {
+    "country_name": "Solomon Islands",
+    "iso_code": "SB",
+    "phone_code": "677",
+    "selection_value": "SB677",
+    "full_value": "selection-action::SB677",
+    "sample_number": "7421234"
+  },
+  {
+    "country_name": "Somalia",
+    "iso_code": "SO",
+    "phone_code": "252",
+    "selection_value": "SO252",
+    "full_value": "selection-action::SO252",
+    "sample_number": "71123456"
+  },
+  {
+    "country_name": "South Africa",
+    "iso_code": "ZA",
+    "phone_code": "27",
+    "selection_value": "ZA27",
+    "full_value": "selection-action::ZA27",
+    "sample_number": "711234567"
+  },
+  {
+    "country_name": "South Georgia and the South Sandwich Islands",
+    "iso_code": "GS",
+    "phone_code": "500",
+    "selection_value": "GS500",
+    "full_value": "selection-action::GS500",
+    "sample_number": ""
+  },
+  {
+    "country_name": "South Sudan",
+    "iso_code": "SS",
+    "phone_code": "211",
+    "selection_value": "SS211",
+    "full_value": "selection-action::SS211",
+    "sample_number": "977123456"
+  },
+  {
+    "country_name": "Spain",
+    "iso_code": "ES",
+    "phone_code": "34",
+    "selection_value": "ES34",
+    "full_value": "selection-action::ES34",
+    "sample_number": "612345678"
+  },
+  {
+    "country_name": "Sri Lanka",
+    "iso_code": "LK",
+    "phone_code": "94",
+    "selection_value": "LK94",
+    "full_value": "selection-action::LK94",
+    "sample_number": "712345678"
+  },
+  {
+    "country_name": "Sudan",
+    "iso_code": "SD",
+    "phone_code": "249",
+    "selection_value": "SD249",
+    "full_value": "selection-action::SD249",
+    "sample_number": "911231234"
+  },
+  {
+    "country_name": "Suriname",
+    "iso_code": "SR",
+    "phone_code": "597",
+    "selection_value": "SR597",
+    "full_value": "selection-action::SR597",
+    "sample_number": "7412345"
+  },
+  {
+    "country_name": "Svalbard and Jan Mayen",
+    "iso_code": "SJ",
+    "phone_code": "47",
+    "selection_value": "SJ47",
+    "full_value": "selection-action::SJ47",
+    "sample_number": "41234567"
+  },
+  {
+    "country_name": "Swaziland",
+    "iso_code": "SZ",
+    "phone_code": "268",
+    "selection_value": "SZ268",
+    "full_value": "selection-action::SZ268",
+    "sample_number": "76123456"
+  },
+  {
+    "country_name": "Sweden",
+    "iso_code": "SE",
+    "phone_code": "46",
+    "selection_value": "SE46",
+    "full_value": "selection-action::SE46",
+    "sample_number": "701234567"
+  },
+  {
+    "country_name": "Switzerland",
+    "iso_code": "CH",
+    "phone_code": "41",
+    "selection_value": "CH41",
+    "full_value": "selection-action::CH41",
+    "sample_number": "781234567"
+  },
+  {
+    "country_name": "Syrian Arab Republic",
+    "iso_code": "SY",
+    "phone_code": "963",
+    "selection_value": "SY963",
+    "full_value": "selection-action::SY963",
+    "sample_number": "944567890"
+  },
+  {
+    "country_name": "Taiwan",
+    "iso_code": "TW",
+    "phone_code": "886",
+    "selection_value": "TW886",
+    "full_value": "selection-action::TW886",
+    "sample_number": "912345678"
+  },
+  {
+    "country_name": "Tajikistan",
+    "iso_code": "TJ",
+    "phone_code": "992",
+    "selection_value": "TJ992",
+    "full_value": "selection-action::TJ992",
+    "sample_number": "917123456"
+  },
+  {
+    "country_name": "Tanzania, United Republic of",
+    "iso_code": "TZ",
+    "phone_code": "255",
+    "selection_value": "TZ255",
+    "full_value": "selection-action::TZ255",
+    "sample_number": "621234567"
+  },
+  {
+    "country_name": "Thailand",
+    "iso_code": "TH",
+    "phone_code": "66",
+    "selection_value": "TH66",
+    "full_value": "selection-action::TH66",
+    "sample_number": "812345678"
+  },
+  {
+    "country_name": "Timor-Leste",
+    "iso_code": "TL",
+    "phone_code": "670",
+    "selection_value": "TL670",
+    "full_value": "selection-action::TL670",
+    "sample_number": "77212345"
+  },
+  {
+    "country_name": "Togo",
+    "iso_code": "TG",
+    "phone_code": "228",
+    "selection_value": "TG228",
+    "full_value": "selection-action::TG228",
+    "sample_number": "90112345"
+  },
+  {
+    "country_name": "Tokelau",
+    "iso_code": "TK",
+    "phone_code": "690",
+    "selection_value": "TK690",
+    "full_value": "selection-action::TK690",
+    "sample_number": "7290"
+  },
+  {
+    "country_name": "Tonga",
+    "iso_code": "TO",
+    "phone_code": "676",
+    "selection_value": "TO676",
+    "full_value": "selection-action::TO676",
+    "sample_number": "7715123"
+  },
+  {
+    "country_name": "Trinidad and Tobago",
+    "iso_code": "TT",
+    "phone_code": "1868",
+    "selection_value": "TT1868",
+    "full_value": "selection-action::TT1868",
+    "sample_number": "8682911234"
+  },
+  {
+    "country_name": "Tunisia",
+    "iso_code": "TN",
+    "phone_code": "216",
+    "selection_value": "TN216",
+    "full_value": "selection-action::TN216",
+    "sample_number": "20123456"
+  },
+  {
+    "country_name": "Turkey",
+    "iso_code": "TR",
+    "phone_code": "90",
+    "selection_value": "TR90",
+    "full_value": "selection-action::TR90",
+    "sample_number": "5012345678"
+  },
+  {
+    "country_name": "Turkmenistan",
+    "iso_code": "TM",
+    "phone_code": "993",
+    "selection_value": "TM993",
+    "full_value": "selection-action::TM993",
+    "sample_number": "66123456"
+  },
+  {
+    "country_name": "Turks and Caicos Islands",
+    "iso_code": "TC",
+    "phone_code": "1649",
+    "selection_value": "TC1649",
+    "full_value": "selection-action::TC1649",
+    "sample_number": "6492311234"
+  },
+  {
+    "country_name": "Tuvalu",
+    "iso_code": "TV",
+    "phone_code": "688",
+    "selection_value": "TV688",
+    "full_value": "selection-action::TV688",
+    "sample_number": "901234"
+  },
+  {
+    "country_name": "Uganda",
+    "iso_code": "UG",
+    "phone_code": "256",
+    "selection_value": "UG256",
+    "full_value": "selection-action::UG256",
+    "sample_number": "712345678"
+  },
+  {
+    "country_name": "Ukraine",
+    "iso_code": "UA",
+    "phone_code": "380",
+    "selection_value": "UA380",
+    "full_value": "selection-action::UA380",
+    "sample_number": "501234567"
+  },
+  {
+    "country_name": "United Arab Emirates",
+    "iso_code": "AE",
+    "phone_code": "971",
+    "selection_value": "AE971",
+    "full_value": "selection-action::AE971",
+    "sample_number": "501234567"
+  },
+  {
+    "country_name": "United Kingdom",
+    "iso_code": "GB",
+    "phone_code": "44",
+    "selection_value": "GB44",
+    "full_value": "selection-action::GB44",
+    "sample_number": "7400123456"
+  },
+  {
+    "country_name": "United States",
+    "iso_code": "US",
+    "phone_code": "1",
+    "selection_value": "US1",
+    "full_value": "selection-action::US1",
+    "sample_number": "2015550123"
+  },
+  {
+    "country_name": "Uruguay",
+    "iso_code": "UY",
+    "phone_code": "598",
+    "selection_value": "UY598",
+    "full_value": "selection-action::UY598",
+    "sample_number": "94231234"
+  },
+  {
+    "country_name": "Uzbekistan",
+    "iso_code": "UZ",
+    "phone_code": "998",
+    "selection_value": "UZ998",
+    "full_value": "selection-action::UZ998",
+    "sample_number": "912345678"
+  },
+  {
+    "country_name": "Vanuatu",
+    "iso_code": "VU",
+    "phone_code": "678",
+    "selection_value": "VU678",
+    "full_value": "selection-action::VU678",
+    "sample_number": "5912345"
+  },
+  {
+    "country_name": "Venezuela, Bolivarian Republic of",
+    "iso_code": "VE",
+    "phone_code": "58",
+    "selection_value": "VE58",
+    "full_value": "selection-action::VE58",
+    "sample_number": "4121234567"
+  },
+  {
+    "country_name": "Viet Nam",
+    "iso_code": "VN",
+    "phone_code": "84",
+    "selection_value": "VN84",
+    "full_value": "selection-action::VN84",
+    "sample_number": "912345678"
+  },
+  {
+    "country_name": "Virgin Islands, British",
+    "iso_code": "VG",
+    "phone_code": "1284",
+    "selection_value": "VG1284",
+    "full_value": "selection-action::VG1284",
+    "sample_number": "2843001234"
+  },
+  {
+    "country_name": "Virgin Islands, U.S.",
+    "iso_code": "VI",
+    "phone_code": "1340",
+    "selection_value": "VI1340",
+    "full_value": "selection-action::VI1340",
+    "sample_number": "3406421234"
+  },
+  {
+    "country_name": "Wallis and Futuna",
+    "iso_code": "WF",
+    "phone_code": "681",
+    "selection_value": "WF681",
+    "full_value": "selection-action::WF681",
+    "sample_number": "821234"
+  },
+  {
+    "country_name": "Western Sahara",
+    "iso_code": "EH",
+    "phone_code": "212",
+    "selection_value": "EH212",
+    "full_value": "selection-action::EH212",
+    "sample_number": "650123456"
+  },
+  {
+    "country_name": "Yemen",
+    "iso_code": "YE",
+    "phone_code": "967",
+    "selection_value": "YE967",
+    "full_value": "selection-action::YE967",
+    "sample_number": "712345678"
+  },
+  {
+    "country_name": "Zambia",
+    "iso_code": "ZM",
+    "phone_code": "260",
+    "selection_value": "ZM260",
+    "full_value": "selection-action::ZM260",
+    "sample_number": "955123456"
+  },
+  {
+    "country_name": "Zimbabwe",
+    "iso_code": "ZW",
+    "phone_code": "263",
+    "selection_value": "ZW263",
+    "full_value": "selection-action::ZW263",
+    "sample_number": "712345678"
+  },
+  {
+    "country_name": "Åland Islands",
+    "iso_code": "AX",
+    "phone_code": "358",
+    "selection_value": "AX358",
+    "full_value": "selection-action::AX358",
+    "sample_number": "412345678"
+  }
+]
