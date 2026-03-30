@@ -22,7 +22,7 @@ logger = logging.getLogger(__name__)
 
 
 class MFAService:
-    def __init__(self, phone_callback=None, phone_api_url: str = None):
+    def __init__(self, phone_callback=None, phone_api_url: Optional[str] = None):
         self.phone_service = PhoneService(phone_api_url)
         self.attempt_count = 0
         self.max_attempts_per_session = 10

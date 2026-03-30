@@ -72,8 +72,8 @@ class CountryCodeMatcher:
 
 
 class PhoneAPIService:
-    def __init__(self, api_url: str = None):
-        self.api_url = api_url or config.api.phone_api_url
+    def __init__(self, api_url: Optional[str] = None):
+        self.api_url = api_url if api_url is not None else config.api.phone_api_url
         self.session = requests.Session()
         self.session.headers.update({
             'User-Agent': config.browser.user_agent,
@@ -118,7 +118,7 @@ class PhoneAPIService:
 
 
 class PhoneService:
-    def __init__(self, api_url: str = None):
+    def __init__(self, api_url: Optional[str] = None):
         self.api_service = PhoneAPIService(api_url)
         self.country_matcher = CountryCodeMatcher()
     

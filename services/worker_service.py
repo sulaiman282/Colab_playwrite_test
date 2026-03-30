@@ -24,12 +24,12 @@ class BatchController:
     def __init__(self, status_callback: Optional[Callable] = None,
                  browser_semaphore: Optional[asyncio.Semaphore] = None,
                  total_accounts: int = 0,
-                 phone_api_url: str = None):
+                 phone_api_url: Optional[str] = None):
         self.status_callback = status_callback
         self.browser_semaphore = browser_semaphore
         self.total_accounts = total_accounts
         self.unlimited_mode = (total_accounts == 0)
-        self.phone_api_url = phone_api_url or config.api.phone_api_url
+        self.phone_api_url = phone_api_url if phone_api_url is not None else config.api.phone_api_url
 
         self.max_browsers = config.account.parallel_workers
         self.register_via_api = config.account.register_via_api
@@ -215,7 +215,7 @@ class BatchController:
 class WorkerManager:
     MAX_CONCURRENT_BROWSERS = 50
 
-    def __init__(self, status_callback: Optional[Callable] = None, phone_api_url: str = None):
+    def __init__(self, status_callback: Optional[Callable] = None, phone_api_url: Optional[str] = None):
         self.status_callback = status_callback
         self.is_running = False
         self.system_stats = SystemStats()
