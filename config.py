@@ -13,7 +13,7 @@ import json
 
 @dataclass
 class APIConfig:
-    phone_api_url: str = "http://localhost:6729/get-number"
+    phone_api_url: str = "https://hot-friends-study.loca.lt/get-number"
     dentalcare_base_url: str = "https://account.dentalcare.com"
     dentalcare_signup_url: str = "https://www.dentalcare.com/en-us?iss=https%3A%2F%2Faccount.dentalcare.com%2F"
 
