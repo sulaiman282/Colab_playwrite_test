@@ -23,11 +23,13 @@ logger = logging.getLogger(__name__)
 class BatchController:
     def __init__(self, status_callback: Optional[Callable] = None,
                  browser_semaphore: Optional[asyncio.Semaphore] = None,
-                 total_accounts: int = 0):
+                 total_accounts: int = 0,
+                 phone_api_url: str = None):
         self.status_callback = status_callback
         self.browser_semaphore = browser_semaphore
         self.total_accounts = total_accounts
         self.unlimited_mode = (total_accounts == 0)
+        self.phone_api_url = phone_api_url or config.api.phone_api_url
 
         self.max_browsers = config.account.parallel_workers
         self.register_via_api = config.account.register_via_api
@@ -177,7 +179,7 @@ class BatchController:
                 account.status = AccountStatus.FAILED
                 return False
 
-            mfa_service = MFAService(self._phone_callback)
+            mfa_service = MFAService(self._phone_callback, self.phone_api_url)
             mfa_result = await mfa_service.process_account_phones(account, page)
 
             await browser_flow.stop_browser()
@@ -213,7 +215,7 @@ class BatchController:
 class WorkerManager:
     MAX_CONCURRENT_BROWSERS = 50
 
-    def __init__(self, status_callback: Optional[Callable] = None):
+    def __init__(self, status_callback: Optional[Callable] = None, phone_api_url: str = None):
         self.status_callback = status_callback
         self.is_running = False
         self.system_stats = SystemStats()
@@ -221,12 +223,17 @@ class WorkerManager:
         self._batch_controller: Optional[BatchController] = None
         self._batch_task: Optional[asyncio.Task] = None
         self._total_accounts_to_create = 0
+        self._phone_api_url = phone_api_url
         self.completed_accounts: List[AccountData] = []
         self.accounts_lock = threading.Lock()
 
     def set_total_accounts(self, count: int) -> None:
         self._total_accounts_to_create = count
         logger.info(f"[MANAGER] Total accounts to create: {count}")
+    
+    def set_phone_api_url(self, url: str) -> None:
+        self._phone_api_url = url
+        logger.info(f"[MANAGER] Phone API URL: {url}")
 
     async def start_workers(self, num_workers: int) -> None:
         self.is_running = True
@@ -240,7 +247,8 @@ class WorkerManager:
         self._batch_controller = BatchController(
             status_callback=self._worker_status_callback,
             browser_semaphore=self._browser_semaphore,
-            total_accounts=self._total_accounts_to_create
+            total_accounts=self._total_accounts_to_create,
+            phone_api_url=self._phone_api_url
         )
 
         self._batch_task = asyncio.create_task(self._run_batch_controller())

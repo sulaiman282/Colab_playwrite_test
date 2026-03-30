@@ -55,6 +55,7 @@ class ColabRunner:
         
         setup_logging()
         self.logger = logging.getLogger(__name__)
+        self._phone_api_url = phone_api_url
     
     def _status_callback(self, worker_id: str, status: str, account: AccountData = None):
         if status == "completed" and account:
@@ -81,7 +82,7 @@ class ColabRunner:
         self.logger.info(f"Keep Browser Open: {config.account.keep_browser_open}")
         self.logger.info("=" * 60)
         
-        self.worker_manager = WorkerManager(status_callback=self._status_callback)
+        self.worker_manager = WorkerManager(status_callback=self._status_callback, phone_api_url=self._phone_api_url)
         self.worker_manager.set_total_accounts(self.batch_count)
         
         try:

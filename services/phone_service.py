@@ -72,13 +72,14 @@ class CountryCodeMatcher:
 
 
 class PhoneAPIService:
-    def __init__(self):
-        self.api_url = config.api.phone_api_url
+    def __init__(self, api_url: str = None):
+        self.api_url = api_url or config.api.phone_api_url
         self.session = requests.Session()
         self.session.headers.update({
             'User-Agent': config.browser.user_agent,
             'Accept': 'application/json',
-            'Content-Type': 'application/json'
+            'Content-Type': 'application/json',
+            'bypass-tunnel-reminder': 'bypass'
         })
     
     def get_phone_number(self, max_retries: int = 5, delay: int = 2) -> Optional[Dict[str, Any]]:
@@ -117,8 +118,8 @@ class PhoneAPIService:
 
 
 class PhoneService:
-    def __init__(self):
-        self.api_service = PhoneAPIService()
+    def __init__(self, api_url: str = None):
+        self.api_service = PhoneAPIService(api_url)
         self.country_matcher = CountryCodeMatcher()
     
     def get_phone_with_country(self) -> Optional[PhoneNumber]:
